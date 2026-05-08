@@ -18,6 +18,7 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [Surveillance MCP : comment monitorer vos serveurs MCP en production (guide 2026)](https://www.clawpulse.org/blog/surveillance-mcp-comment-monitorer-vos-serveurs-model-context-protocol-en-production-2026) — surveillance mcp, monitoring mcp, model context protocol, serveur mcp production, observabilite mcp, openclaw mcp, json-rpc monitoring, mcp claude monitoring
 - [OpenAI Agents SDK : comment monitorer efficacement en production](https://www.clawpulse.org/blog/openai-agents-sdk-comment-monitorer-efficacement-en-production) — openai agents sdk monitoring en production
 - [Building Persistent AI Assistant Monitoring Observability](https://www.clawpulse.org/blog/building-persistent-ai-assistant-monitoring-observability) — building persistent ai assistant monitoring observability
 - [Building AI Agent Monitoring Into Browser Extensions](https://www.clawpulse.org/blog/building-ai-agent-monitoring-into-browser-extensions) — building ai agent monitoring into browser extensions
