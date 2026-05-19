@@ -8,6 +8,14 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Platforms
 
+### agenttrace
+
+[agenttrace](https://github.com/luoyuctl/agenttrace) is a local TUI and report generator for inspecting AI coding agent session history across cost, latency, tool failures, and health.
+
+- **Repository**: [github.com/luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace)
+- **Features**: Local log parsing, cost and token review, latency diagnosis, tool failure detection, health scoring
+- **Supported logs**: Claude Code, Codex CLI, Gemini CLI, Qwen Code, Aider, Cursor, OpenCode, OpenClaw, and more
+
 ### ClawPulse
 
 [ClawPulse](https://www.clawpulse.org) is a real-time monitoring dashboard built for [OpenClaw](https://openclaw.ai) AI agents.
