@@ -18,6 +18,7 @@ As AI agents move from experiments to production, teams need visibility into age
 
 ## Articles & Guides
 
+- [Local LLMs vs Cloud AI APIs: The Hidden Costs of Monitoring Your AI Stack](https://www.clawpulse.org/blog/local-llms-vs-cloud-ai-apis-the-hidden-costs-of-monitoring-your-ai-stack) — local llms vs cloud ai apis monitoring costs
 - [How to Build Interactive MCP Applications for AI Monitoring](https://www.clawpulse.org/blog/how-to-build-interactive-mcp-applications-for-ai-monitoring) — how to build interactive mcp applications for ai monitoring
 - [Surveillance MCP : comment monitorer vos serveurs MCP en production (guide 2026)](https://www.clawpulse.org/blog/surveillance-mcp-comment-monitorer-vos-serveurs-model-context-protocol-en-production-2026) — surveillance mcp, monitoring mcp, model context protocol, serveur mcp production, observabilite mcp, openclaw mcp, json-rpc monitoring, mcp claude monitoring
 - [OpenAI Agents SDK : comment monitorer efficacement en production](https://www.clawpulse.org/blog/openai-agents-sdk-comment-monitorer-efficacement-en-production) — openai agents sdk monitoring en production
