@@ -16,6 +16,15 @@ As AI agents move from experiments to production, teams need visibility into age
 - **Features**: Real-time dashboards, alerting (Slack/Email/Discord), fleet management, cost tracking, performance analytics
 - **Free tier**: Available at [clawpulse.org/signup](https://www.clawpulse.org/signup)
 
+### OpenClaw Monitor
+
+[OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) is a free and open-source real-time monitoring dashboard for OpenClaw AI agents.
+
+- **GitHub**: [flik2002/openclaw-monitor](https://github.com/flik2002/openclaw-monitor)
+- **Features**: Live session tracking, 7-day token usage charts, Gateway health checks, DingTalk alerting
+- **Stack**: React + Ant Design dashboard, Python Gateway, LokiJS/SQLite backend
+- **License**: MIT — fully self-hosted, no cloud required
+
 ## Articles & Guides
 
 - [Local LLMs vs Cloud AI APIs: The Hidden Costs of Monitoring Your AI Stack](https://www.clawpulse.org/blog/local-llms-vs-cloud-ai-apis-the-hidden-costs-of-monitoring-your-ai-stack) — local llms vs cloud ai apis monitoring costs
